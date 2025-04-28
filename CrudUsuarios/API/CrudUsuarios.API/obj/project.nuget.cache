@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cvzVVTPtrI=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Faculdade\\atp-devops\\CrudUsuarios\\API\\CrudUsuarios.API\\CrudUsuarios.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\camar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
