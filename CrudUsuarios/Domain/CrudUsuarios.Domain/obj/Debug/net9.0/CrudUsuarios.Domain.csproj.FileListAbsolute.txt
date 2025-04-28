@@ -1,0 +1,12 @@
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\bin\Debug\net9.0\CrudUsuarios.Domain.deps.json
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\bin\Debug\net9.0\CrudUsuarios.Domain.dll
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\bin\Debug\net9.0\CrudUsuarios.Domain.pdb
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\CrudUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\CrudUsuarios.Domain.AssemblyInfoInputs.cache
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\CrudUsuarios.Domain.AssemblyInfo.cs
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\CrudUsuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\CrudUsuarios.Domain.sourcelink.json
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\CrudUsuarios.Domain.dll
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\refint\CrudUsuarios.Domain.dll
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\CrudUsuarios.Domain.pdb
+C:\Dev\Faculdade\atp-devops\CrudUsuarios\Domain\CrudUsuarios.Domain\obj\Debug\net9.0\ref\CrudUsuarios.Domain.dll
