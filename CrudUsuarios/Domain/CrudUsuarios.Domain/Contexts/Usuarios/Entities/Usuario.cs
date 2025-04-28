@@ -3,8 +3,9 @@
 public class Usuario
 {
     protected Usuario() { }
-    public Usuario(string nome, int idade, string email, string senha, string telefone)
+    public Usuario(Guid id, string nome, int idade, string email, string senha, string telefone)
     {
+        Id = id;
         Nome = nome;
         Idade = idade;
         Email = email;
@@ -12,6 +13,7 @@ public class Usuario
         Telefone = telefone;
     }
 
+    public Guid Id { get; private set; }
     public string Nome { get; private set; }
     public int Idade { get; private set; }
     public string Email { get; private set; }
