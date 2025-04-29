@@ -22,6 +22,9 @@ public class Usuario
         if (Nome.Length < 3)
             throw new ArgumentException("Nome deve ter pelo menos 3 caracteres.");
         
+        if (Idade == 0)
+            throw new ArgumentException("Idade não pode ser zero.");
+        
         if (Idade < 0)
             throw new ArgumentException("Idade não pode ser negativa.");
         
