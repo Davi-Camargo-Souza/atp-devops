@@ -18,14 +18,14 @@ jobs:
         with:
           dotnet-version: '9.0.x'
 
-      - name: Change directory to CrudUsuarios and restore
-        working-directory: CrudUsuarios
+      - name: Restore dependencies
         run: dotnet restore CrudUsuarios.sln
-
-      - name: Build the solution
         working-directory: CrudUsuarios
+
+      - name: Build
         run: dotnet build CrudUsuarios.sln --no-restore --configuration Release
+        working-directory: CrudUsuarios
 
       - name: Run tests
-        working-directory: CrudUsuarios
         run: dotnet test CrudUsuarios.sln --no-build --configuration Release --logger "trx"
+        working-directory: CrudUsuarios
