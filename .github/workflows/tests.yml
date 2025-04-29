@@ -1,4 +1,4 @@
-name: Run Tests on Pull Request
+name: Rodar testes em Pull Requests
 
 on:
   pull_request:
@@ -18,11 +18,14 @@ jobs:
         with:
           dotnet-version: '9.0.x'
 
-      - name: Restore dependencies
-        run: dotnet restore
+      - name: Mudar o diretório e restaurar dependencias
+        working-directory: CrudUsuarios
+        run: dotnet restore CrudUsuarios.sln
 
       - name: Build
-        run: dotnet build --no-restore --configuration Release
+        run: dotnet build CrudUsuarios.sln
+ --no-restore --configuration Release
 
-      - name: Run tests
-        run: dotnet test --no-build --configuration Release --logger "trx"
+      - name: Rodar testes
+        run: dotnet test CrudUsuarios.sln
+ --no-build --configuration Release --logger "trx"
